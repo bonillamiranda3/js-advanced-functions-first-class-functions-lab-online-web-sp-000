@@ -19,7 +19,7 @@ function fareDoubler(fare) {
 
 function fareTripler(fare) {
   return fare *3;
-}; 
+};
 
 const createFareMultiplier = function (multiplier) {
   return function fare(num) {
